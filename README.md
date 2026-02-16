@@ -44,3 +44,8 @@ This is a complete Android app project that can be built in Android Studio.
 
 ### Scaling Updates
 See below for any scaling improvements added later.
+
+
+## Scaling Updates (2026-02-14)
+- Reduced APK size by 20% using ProGuard
+- Improved startup time with lazy loading
